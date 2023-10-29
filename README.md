@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Stanimir Dimitrov.</h1>
 <h3 align="center">I study at SoftUni.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stanimir55&label=Profile%20views&color=0e75b6&style=flat" alt="stanimir55" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stanimir55" alt="stanimir55" /></a> </p>
 
