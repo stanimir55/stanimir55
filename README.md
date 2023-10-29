@@ -1,5 +1,5 @@
 ### Hi, I am Stanimir Dimitrov 👋
-I stady in SoftUni.
+I stady at SoftUni.
 <!--
 **stanimir55/stanimir55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
